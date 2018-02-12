@@ -4,7 +4,7 @@ function slasher(arr, howMany) {
     // it doesn't always pay to be first
 
     var result = arr.slice(howMany);
-    //console.log("result", result)
+    // console.log("result", result)
     return result;
 }
 
