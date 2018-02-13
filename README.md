@@ -9,7 +9,8 @@
 ### Front End Development Certification
 
 - #### HTML5 and CSS
-	- [x] 60/60 chalenges resolved - not published yet on this repository
+	- [x] 60/60 chalenges resolved
+	- [Go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/HTML5andCSS)	
 - #### Responsive Design with Bootstrap
 	- [x] 31/31 chalenges resolved - not published yet on this repository
 - #### jQuery

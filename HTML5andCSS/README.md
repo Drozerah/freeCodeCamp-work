@@ -1,123 +1,126 @@
 # freeCodeCamp - HTML5 and CSS work
 
+## Skills
+
+- [x] Learn How freeCodeCamp Works
+
+- [x] Say Hello to HTML Elements
+
+- [x] Headline with the h2 Element
+
+- [x] Inform with the Paragraph Element
+
+- [x] Uncomment HTML
+
+- [x] Comment out HTML
+
+- [x] Fill in the Blank with Placeholder Text
+
+- [x] Delete HTML Elements
+
+- [x] Change the Color of Text
+
+- [x] Join a freeCodeCamp Study Group in Your City
+
+- [x] Become a Supporter
+
+- [x] Use CSS Selectors to Style Elements
+
+- [x] Use a CSS Class to Style an Element
+
+- [x] Style Multiple Elements with a CSS Class
+
+- [x] Change the Font Size of an Element
+
+- [x] Set the Font Family of an Element
+
+- [x] Import a Google Font
+
+- [x] Specify How Fonts Should Degrade
+
+- [x] Add Images to your Website
+
+- [x] Size your Images
+
+- [x] Add Borders Around your Elements
+
+- [x] Add Rounded Corners with a Border Radius
+
+- [x] Make Circular Images with a Border Radius
+
+- [x] Link to External Pages with Anchor Elements
+
+- [x] Nest an Anchor Element within a Paragraph
+
+- [x] Make Dead Links using the Hash Symbol
+
+- [x] Turn an Image into a Link
+
+- [x] Create a Bulleted Unordered List
+
+- [x] Create an Ordered List
+
+- [x] Create a Text Field
+
+- [x] Add Placeholder Text to a Text Field
+
+- [x] Create a Form Element
+
+- [x] Add a Submit Button to a Form
+
+- [x] Use HTML5 to Require a Field
+
+- [x] Create a Set of Radio Buttons
+
+- [x] Create a Set of Checkboxes
+
+- [x] Check Radio Buttons and Checkboxes by Default
+
+- [x] Nest Many Elements within a Single Div Element
+
+- [x] Give a Background Color to a Div Element
+
+- [x] Set the ID of an Element
+
+- [x] Use an ID Attribute to Style an Element
+
+- [x] Adjusting the Padding of an Element
+
+- [x] Adjust the Margin of an Element
+
+- [x] Add a Negative Margin to an Element
+
+- [x] Add Different Padding to Each Side of an Element
+
+- [x] Add Different Margins to Each Side of an Element
+
+- [x] Use Clockwise Notation to Specify the Padding of an Element
+
+- [x] Use Clockwise Notation to Specify the Margin of an Element
+
+- [x] Style the HTML Body Element
+
+- [x] Inherit Styles from the Body Element
+
+- [x] Prioritize One Style Over Another
+
+- [x] Override Styles in Subsequent CSS
+
+- [x] Override Class Declarations by Styling ID Attributes
+
+- [x] Override Class Declarations with Inline Styles
+
+- [x] Use Hex Code for Specific Colors
+
+- [x] Use Hex Code to Mix Colors
+
+- [x] Use Abbreviated Hex Code
+
+- [x] Use RGB values to Color Elements
+
+- [x] Use RGB to Mix ColorsOverride All Other Styles by using Important
 
 
-Learn How freeCodeCamp Works Complete
 
-Say Hello to HTML Elements Complete
 
-Headline with the h2 Element Complete
 
-Inform with the Paragraph Element Complete
-
-Uncomment HTML Complete
-
-Comment out HTML Complete
-
-Fill in the Blank with Placeholder Text Complete
-
-Delete HTML Elements Complete
-
-Change the Color of Text Complete
-
-Join a freeCodeCamp Study Group in Your City Complete
-
-Become a Supporter Complete
-
-Use CSS Selectors to Style Elements Complete
-
-Use a CSS Class to Style an Element Complete
-
-Style Multiple Elements with a CSS Class Complete
-
-Change the Font Size of an Element Complete
-
-Set the Font Family of an Element Complete
-
-Import a Google Font Complete
-
-Specify How Fonts Should Degrade Complete
-
-Add Images to your Website Complete
-
-Size your Images Complete
-
-Add Borders Around your Elements Complete
-
-Add Rounded Corners with a Border Radius Complete
-
-Make Circular Images with a Border Radius Complete
-
-Link to External Pages with Anchor Elements Complete
-
-Nest an Anchor Element within a Paragraph Complete
-
-Make Dead Links using the Hash Symbol Complete
-
-Turn an Image into a Link Complete
-
-Create a Bulleted Unordered List Complete
-
-Create an Ordered List Complete
-
-Create a Text Field Complete
-
-Add Placeholder Text to a Text Field Complete
-
-Create a Form Element Complete
-
-Add a Submit Button to a Form Complete
-
-Use HTML5 to Require a Field Complete
-
-Create a Set of Radio Buttons Complete
-
-Create a Set of Checkboxes Complete
-
-Check Radio Buttons and Checkboxes by Default Complete
-
-Nest Many Elements within a Single Div Element Complete
-
-Give a Background Color to a Div Element Complete
-
-Set the ID of an Element Complete
-
-Use an ID Attribute to Style an Element Complete
-
-Adjusting the Padding of an Element Complete
-
-Adjust the Margin of an Element Complete
-
-Add a Negative Margin to an Element Complete
-
-Add Different Padding to Each Side of an Element Complete
-
-Add Different Margins to Each Side of an Element Complete
-
-Use Clockwise Notation to Specify the Padding of an Element Complete
-
-Use Clockwise Notation to Specify the Margin of an Element Complete
-
-Style the HTML Body Element Complete
-
-Inherit Styles from the Body Element Complete
-
-Prioritize One Style Over Another Complete
-
-Override Styles in Subsequent CSS Complete
-
-Override Class Declarations by Styling ID Attributes Complete
-
-Override Class Declarations with Inline Styles Complete
-
-Override All Other Styles by using Important Complete
-
-Use Hex Code for Specific Colors Complete
-
-Use Hex Code to Mix Colors Complete
-
-Use Abbreviated Hex Code Complete
-
-Use RGB values to Color Elements Complete
-
-Use RGB to Mix Colors
