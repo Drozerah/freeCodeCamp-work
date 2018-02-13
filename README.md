@@ -11,15 +11,15 @@
 - #### HTML5 and CSS
 	- [x] 60/60 chalenges resolved - not published yet on this repository
 - #### Responsive Design with Bootstrap
-	- [x] 31/31 chalenges resolved - not yet on this repository
+	- [x] 31/31 chalenges resolved - not published yet on this repository
 - #### jQuery
-	- [x] 18/18 chalenges resolved - not yet on this repository
+	- [x] 18/18 chalenges resolved - not published yet on this repository
 - #### Basic Front End Develoment Projects
-	- [] 0/2 chalenges resolved	
+	- [ ] 0/2 chalenges resolved	
 - #### Basic JavaScript
-	- [x] 104/104 chalenges resolved - not  yet on this repository	
+	- [x] 104/104 chalenges resolved - not published  yet on this repository	
 - #### Object Oriented and Functional Programming
-	- [x] 13/13 chalenges resolved - not yet on this repository	
+	- [x] 13/13 chalenges resolved - not published yet on this repository	
 - #### Basic Algorithm Scripting *
     - [x] 14/17 chalenges resolved
 	- [Go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
