@@ -9,7 +9,7 @@
 ### Front End Development Certification
 
 - #### HTML5 and CSS
-- [x] 60 chalenges resolved - not published on this repository
+	- [x] 60 chalenges resolved - not published on this repository
 - #### Responsive Design with Bootstrap
 - #### jQuery
 - #### Object Oriented and Functional Programming
