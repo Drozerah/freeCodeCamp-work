@@ -7,3 +7,9 @@
 ## MAP
 
 ### Front End Development Certification
+
+> HTML5 and CSS (5 hours)
+> Responsive Design with Bootstrap
+> jQuery
+> Object Oriented and Functional Programming
+> Basic Algorithm Scripting
