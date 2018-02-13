@@ -12,4 +12,5 @@
 - #### Responsive Design with Bootstrap
 - #### jQuery
 - #### Object Oriented and Functional Programming
-- #### Basic Algorithm Scripting
+- #### Basic Algorithm Scripting *
+ - https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting
