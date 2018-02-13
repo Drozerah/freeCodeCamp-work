@@ -1,6 +1,6 @@
 # freeCodeCamp - Responsive Design with Bootstrap work
 
-## Skills : 31 resolved chalenges 
+## Skills : 31/31 resolved chalenges 
 
 - [x] Use Responsive Design with Bootstrap Fluid Containers 
 
