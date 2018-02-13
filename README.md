@@ -13,4 +13,4 @@
 - #### jQuery
 - #### Object Oriented and Functional Programming
 - #### Basic Algorithm Scripting *
-	- [go to repository folder](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
+	- [Go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
