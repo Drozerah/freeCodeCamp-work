@@ -1,6 +1,6 @@
 # freeCodeCamp - HTML5 and CSS work
 
-## Skills
+## Skills : 60 chalenges resolved
 
 - [x] Learn How freeCodeCamp Works
 

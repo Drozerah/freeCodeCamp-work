@@ -10,7 +10,7 @@
 
 - #### HTML5 and CSS
 	- [x] 60/60 chalenges resolved
-	- [Go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/HTML5andCSS)	
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/HTML5andCSS)	
 - #### Responsive Design with Bootstrap
 	- [x] 31/31 chalenges resolved - not published yet on this repository
 - #### jQuery
@@ -23,7 +23,7 @@
 	- [x] 13/13 chalenges resolved - not published yet on this repository	
 - #### Basic Algorithm Scripting *
     - [x] 14/17 chalenges resolved
-	- [Go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
 
 ###### Coded by Drozerah on freeCodeCamp
 
