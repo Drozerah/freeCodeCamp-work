@@ -24,3 +24,7 @@
 - #### Basic Algorithm Scripting *
     - [x] 14/17 chalenges resolved
 	- [Go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
+
+###### Coded by Drozerah on freeCodeCamp
+
+* [link my freeCodeCamp profile](https://www.freecodecamp.org/drozerah)
