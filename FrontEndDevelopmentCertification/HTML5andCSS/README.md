@@ -121,6 +121,9 @@
 - [x] Use RGB to Mix ColorsOverride All Other Styles by using Important
 
 
+###### Coded by Drozerah on freeCodeCamp
+
+* [link my freeCodeCamp profile](https://www.freecodecamp.org/drozerah)
 
 
 
