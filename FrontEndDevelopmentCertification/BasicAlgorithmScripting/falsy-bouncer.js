@@ -2,12 +2,14 @@
  * Remove all falsy values from an array.
  *   Falsy values in JavaScript are false, null, 0, "", undefined, and NaN.
  * @see {@link https://www.freecodecamp.org/challenges/falsy-bouncer}
+ *
+ * Coded by Drozerah => https://www.freecodecamp.org/drozerah
  */
 
 
 /** @function bouncer
- * @returns new array
  * @param {array} arr
+ * @returns new array 
  */
 function bouncer(arr) {
     // Don't show a false ID to this bouncer.
@@ -36,6 +38,17 @@ function bouncer(arr) {
     //console.log("filtered", filtered);
     return filtered;
 }
+
+/*
+* Refactored function using Boolean object 
+* @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean}
+*/
+function bouncer(arr) {
+  var result = arr.filter(Boolean);
+  //console.log("result", result)
+  return result;
+}
+
 
 
 bouncer([7, "ate", "", false, 9]) //should return [7, "ate", 9].
