@@ -16,6 +16,7 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/ResponsiveDesignwithBootstrap)	
 - #### jQuery
 	- [x] 18/18 resolved chalenges - not published yet on this repository
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/jQuery)
 - #### Basic Front End Develoment Projects
 	- [ ] 2/2 chalenges to resolve : coming soon !	
 - #### Basic JavaScript
