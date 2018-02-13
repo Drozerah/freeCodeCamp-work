@@ -16,13 +16,14 @@
 - #### jQuery
 	- [x] 18/18 chalenges resolved - not published yet on this repository
 - #### Basic Front End Develoment Projects
-	- [ ] 0/2 chalenges resolved	
+	- [ ] 2/2 chalenges to resolve : coming soon !	
 - #### Basic JavaScript
 	- [x] 104/104 chalenges resolved - not published  yet on this repository	
 - #### Object Oriented and Functional Programming
 	- [x] 13/13 chalenges resolved - not published yet on this repository	
 - #### Basic Algorithm Scripting *
     - [x] 14/17 chalenges resolved
+    - [ ] 3/17 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
 
 ###### Coded by Drozerah on freeCodeCamp
