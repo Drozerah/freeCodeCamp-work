@@ -12,7 +12,7 @@
 	- [x] 60/60 chalenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/HTML5andCSS)	
 - #### Responsive Design with Bootstrap
-	- [x] 31/31 chalenges resolved - not published yet on this repository
+	- [x] 31/31 chalenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/ResponsiveDesignwithBootstrap)	
 - #### jQuery
 	- [x] 18/18 chalenges resolved - not published yet on this repository
