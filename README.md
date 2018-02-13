@@ -13,6 +13,7 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/HTML5andCSS)	
 - #### Responsive Design with Bootstrap
 	- [x] 31/31 chalenges resolved - not published yet on this repository
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/ResponsiveDesignwithBootstrap)	
 - #### jQuery
 	- [x] 18/18 chalenges resolved - not published yet on this repository
 - #### Basic Front End Develoment Projects
