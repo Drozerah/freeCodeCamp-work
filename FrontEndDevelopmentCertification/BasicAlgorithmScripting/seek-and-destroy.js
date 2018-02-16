@@ -12,7 +12,7 @@
  */
 
 /** @function destroyer
- * @returns new array
+ * @returns filtered array
  * @param {array} arr
  */
 function destroyer(arr) {
