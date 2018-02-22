@@ -6,6 +6,7 @@
 ### Skills :
 
 - [x] Manage Packages with npm (15/15 resolved chalenges*)
+
 ![Image of Yaktocat](https://raw.githubusercontent.com/Drozerah/freeCodeCamp-work/master/BackEndDevelopmentCertification/Nodes.jsandExpress.js/How-to-npm-completed.png)
 
 *Chalenges based on the teaching module [how-to-npm](https://github.com/workshopper/how-to-npm)
