@@ -35,7 +35,10 @@
 - #### Nodes.js and Express.js	
     - [x] 1/5 resolved chalenges
     - [ ] 4/5 chalenges to resolve : coming soon !
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/BackEndDevelopmentCertification/Nodes.jsandExpress.js)	
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/BackEndDevelopmentCertification/Nodes.jsandExpress.js)
+- #### Git
+    - [x] 11/11 resolved chalenges	
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/BackEndDevelopmentCertification/GIT)
 	
 ###### Coded by Drozerah on freeCodeCamp
 
