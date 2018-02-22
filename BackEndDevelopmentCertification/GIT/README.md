@@ -1,6 +1,6 @@
 # freeCodeCamp - "Save your code revisions forever with GIT"
 ````
-- 11/11 resolved chalenges
+11/11 resolved chalenges
 ````
 ### Skills : 
 
