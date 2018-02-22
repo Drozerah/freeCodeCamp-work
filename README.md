@@ -30,6 +30,8 @@
 
 ### Back End Development Certification
 
+- #### Automated Testing and Debugging
+	- [x] 2/2 resolved chalenges - not published yet on this repository
 - #### Nodes.js and Express.js	
     - [x] 1/5 resolved chalenges
     - [ ] 4/5 chalenges to resolve : coming soon !
