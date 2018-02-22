@@ -1,4 +1,6 @@
 # freeCodeCamp - "Save your code revisions forever with GIT"
+![Image of Yaktocat](https://raw.githubusercontent.com/Drozerah/freeCodeCamp-work/master/BackEndDevelopmentCertification/GIT/GIT-IT-completed.png)
+
 ````
 11/11 resolved chalenges
 ````
