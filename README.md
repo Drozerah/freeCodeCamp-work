@@ -24,8 +24,8 @@
 - #### Object Oriented and Functional Programming
 	- [x] 13/13 resolved chalenges - not published yet on this repository	
 - #### Basic Algorithm Scripting *
-    - [x] 15/17 resolved chalenges
-    - [ ] 2/17 chalenges to resolve : coming soon !
+    - [x] 16/17 resolved chalenges
+    - [ ] 1/17 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
 
 ### Back End Development Certification
