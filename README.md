@@ -27,6 +27,8 @@
     - [x] 16/17 resolved chalenges
     - [ ] 1/17 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
+- #### JSON APIs and AJAX
+    - [ ] 0/7 chalenges to resolve : coming soon !
 
 ### Back End Development Certification
 
