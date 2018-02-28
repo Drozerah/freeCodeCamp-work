@@ -28,7 +28,10 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
 - #### JSON APIs and AJAX
     - [ ] 0/7 chalenges to resolve : coming soon !
-
+- #### Intermediate Front End Development Projects *
+	- [x] 1/4 resolved chalenges
+	- [ ] 3/4 chalenges to resolve : coming soon !
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateFrontEndDevelopmentProjects/RandomQuoteMachine)
 ### Back End Development Certification
 
 - #### Automated Testing and Debugging
