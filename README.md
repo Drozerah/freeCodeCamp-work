@@ -17,7 +17,7 @@
 - #### jQuery
 	- [x] 18/18 resolved chalenges
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/jQuery)
-- #### Basic Front End Develoment Projects
+- #### Basic Front End Develoment Projects *
 	- [ ] 2/2 chalenges to resolve : coming soon !	
 - #### Basic JavaScript
 	- [x] 104/104 resolved chalenges - not published  yet on this repository	
