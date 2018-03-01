@@ -1,4 +1,3 @@
-
 /** 
  * Sum All Numbers in a Range
  *   We'll pass you an array of two numbers. Return the sum of those two numbers and all numbers between them.
@@ -17,30 +16,30 @@
 
 function sumAll(arr) {
     // sort numbers in array
-    arr.sort(function(a, b) {
+    arr.sort(function (a, b) {
         return a - b;
     });
     // get min et max from arr
     var min = arr[0];
     var max = arr.slice(-1)[0];
     // set new arr
-    var array=[];
+    var array = [];
     // populate new array between min & max
-    for (let i = (min-1) ; i < max; i++) {
-        array.push(i+1);       
+    for (let i = (min - 1); i < max; i++) {
+        array.push(i + 1);
     }
-    console.log("new array => ",array)
+    //console.log("new array => ",array)
     // get the sum of all number in array
     // using .reduce() method which is a higher order function
 
     // first approach 
     // apply an anonymous sum function to the .reduce() method
-    var sum = array.reduce(function(a,b){
+    var sum = array.reduce(function (a, b) {
         return a + b;
     });
     // second approach
     // apply ES6 sum arrow function to the .reduce() method as arr new value
-    arr = array.reduce((a,b) => a + b);
+    arr = array.reduce((a, b) => a + b);
 
     //console.log("first approach returns => ",sum)
     //console.log("second approach returns => ",arr)
