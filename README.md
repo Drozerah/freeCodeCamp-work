@@ -33,8 +33,8 @@
 	- [ ] 3/4 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateFrontEndDevelopmentProjects/RandomQuoteMachine)
 - #### Intermediate Algorithm Scripting *
-	- [x] 1/21 resolved chalenges
-	- [ ] 20/21 chalenges to resolve : coming soon !
+	- [x] 2/21 resolved chalenges
+	- [ ] 19/21 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting)
 ### Back End Development Certification
 
