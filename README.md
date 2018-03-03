@@ -4,7 +4,7 @@
 
 * Challenges required for certifications are marked with a *
 
-Free Code Camp's Front End & Back End Development program covers an estimated 500 hours of course work that includes HTML5, CSS, JavaScript and Jquery.
+Free Code Camp's Front End & Back End Development program covers an estimated 500 hours of course work that includes HTML5, CSS, JavaScript and jQuery.
 
 This is broken up with 10 basic, intermediate and advanced projects. As well as 16 basic algorithms, 21 intermediate algorithms, and 5 advanced algorithms.
 
@@ -28,7 +28,7 @@ This is broken up with 10 basic, intermediate and advanced projects. As well as 
 - #### Object Oriented and Functional Programming
 	- [x] 13/13 resolved chalenges - not published yet on this repository	
 - #### Basic Algorithm Scripting *
-    - [x] 17/17 resolved chalenges
+    - [x] 16/16 resolved chalenges
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
 - #### JSON APIs and AJAX
     - [ ] 0/7 chalenges to resolve : coming soon !
