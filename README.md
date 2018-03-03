@@ -4,7 +4,7 @@
 
 * Challenges required for certifications are marked with a *
 
-Free Code Camp's Front End Development program covers an estimated 500 hours of course work that includes HTML5, CSS, JavaScript and Jquery.
+Free Code Camp's Front End & Back End Development program covers an estimated 500 hours of course work that includes HTML5, CSS, JavaScript and Jquery.
 
 This is broken up with 10 basic, intermediate and advanced projects. As well as 16 basic algorithms, 21 intermediate algorithms, and 5 advanced algorithms.
 
