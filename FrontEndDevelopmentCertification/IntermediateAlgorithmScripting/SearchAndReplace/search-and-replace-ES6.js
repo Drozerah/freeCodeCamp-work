@@ -13,7 +13,6 @@
  *  @see {@link https://www.freecodecamp.org/challenges/search-and-replace}
  * 
  *  @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace}
- *  @see {@link https://paulund.co.uk/capitalize-first-letter-string-javascript} 
  * 
  *  Coded by Drozerah :
  *      @see {@link https://www.freecodecamp.org/drozerah}
@@ -21,21 +20,19 @@
  *  Coded time : 08/03/2018
  * 
  *  GitHub repository : 
- *      @see {@link https://github.com/Drozerah/freeCodeCamp-work/blob/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting/SearchAndReplace/search-and-replace.js}
- *  Note : the ES6 version of this resolved challenge can be found at :
  *      @see {@link https://github.com/Drozerah/freeCodeCamp-work/blob/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting/SearchAndReplace/search-and-replace-ES6.js}
  */
 
-function myReplace(str, before, after) {
+const myReplace = (str, before, after) => {
 
-    var newStr;
+    let newStr;
     // is before first letter uppercase ?
     // get before first letter
-    var beforeFirstLetter = before.charAt(0);
+    const beforeFirstLetter = before.charAt(0);
     // test if beforeFirstLetter is upper case
     if (beforeFirstLetter == beforeFirstLetter.toUpperCase()) {
         // if true convert after first letter to upper case
-        var afterToUpperCase = after.charAt(0).toUpperCase() + after.slice(1);
+        const afterToUpperCase = after.charAt(0).toUpperCase() + after.slice(1);
         newStr = str.replace(before, afterToUpperCase);
 
     } else {
