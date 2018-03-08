@@ -13,6 +13,7 @@
  *  @see {@link https://www.freecodecamp.org/challenges/search-and-replace}
  * 
  *  @see {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace}
+ *  @see {@link https://paulund.co.uk/capitalize-first-letter-string-javascript}
  * 
  *  Coded by Drozerah :
  *      @see {@link https://www.freecodecamp.org/drozerah}
