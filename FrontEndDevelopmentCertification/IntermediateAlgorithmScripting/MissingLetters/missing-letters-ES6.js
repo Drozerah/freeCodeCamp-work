@@ -19,8 +19,6 @@
  *  GitHub repository : 
  *      @see {@link https://github.com/Drozerah/freeCodeCamp-work/blob/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting/MissingLetters/missing-letters.js}
  * 
- *  Note : the ES6 version of this resolved challenge can be found at :
- *      @see {@link https://github.com/Drozerah/freeCodeCamp-work/blob/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting/MissingLetters/missing-letters-ES6.js}
  */
 
 const fearNotLetter = str => {
