@@ -37,8 +37,8 @@ This is broken up with 10 basic, intermediate and advanced projects. As well as 
 	- [ ] 3/4 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateFrontEndDevelopmentProjects/RandomQuoteMachine)
 - #### Intermediate Algorithm Scripting *
-	- [x] 11/21 resolved chalenges
-	- [ ] 10/21 chalenges to resolve : coming soon !
+	- [x] 12/21 resolved chalenges
+	- [ ] 9/21 chalenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting)
 ### Back End Development Certification
 
