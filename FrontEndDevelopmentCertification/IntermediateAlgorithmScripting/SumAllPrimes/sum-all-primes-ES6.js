@@ -50,7 +50,7 @@ const sumPrimes = num => {
 
     console.log(primes);
 
-    return num;
+    return primes;
 }
 
 sumPrimes(10); //should return 17.
