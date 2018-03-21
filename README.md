@@ -37,8 +37,8 @@ This is broken up with 10 basic, intermediate and advanced projects. As well as 
 	- [ ] 3/4 challenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateFrontEndDevelopmentProjects/RandomQuoteMachine)
 - #### Intermediate Algorithm Scripting *
-	- [x] 19/21 resolved challenges
-	- [ ] 2/21 challenges to resolve : coming soon !
+	- [x] 20/21 resolved challenges
+	- [ ] 1/21 challenges to resolve : coming soon !
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting)
 ### Back End Development Certification
 
