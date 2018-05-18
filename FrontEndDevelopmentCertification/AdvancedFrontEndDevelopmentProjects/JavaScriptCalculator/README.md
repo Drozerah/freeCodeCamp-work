@@ -1,11 +1,1 @@
-# Advanced Front End Development Projects
-
-
-
-
-
-
-
-
-
-
+# JavaScript Calculator
