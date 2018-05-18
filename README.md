@@ -39,7 +39,7 @@ This is broken up with 10 basic, intermediate and advanced projects. As well as 
 - #### Intermediate Algorithm Scripting *
 	- [x] 21/21 resolved challenges
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting)
-- #### Advanced Front End Developpment Pojects
+- #### Advanced Front End Developpment Pojects *
 	- [x] 1/4 resolved challenges
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/AdvancedFrontEndDevelopmentProjects)
 
