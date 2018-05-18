@@ -1,4 +1,4 @@
-##JavaScript Calculator
+## JavaScript Calculator
 
 ![JavaScript Calculator](https://github.com/Drozerah/freeCodeCamp-work/blob/master/FrontEndDevelopmentCertification/AdvancedFrontEndDevelopmentProjects/JavaScriptCalculator/img/JScalculator.png?raw=true)
 
