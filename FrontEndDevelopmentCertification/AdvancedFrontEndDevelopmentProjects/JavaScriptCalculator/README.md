@@ -15,8 +15,9 @@
 ##### Standards used for development :  
 
 - [x] HTML5
-- [x] CSS3 - Flex Box Layout Module (FlexBox)
-- [x] SCSS
+- [x] CSS3 + Flex Box Layout Module (FlexBox)
+- [x] SCSS 
+- [x] SASS - (preprocessor scripting language)
 - [x] Javascript - VanillaJS
 
 ##### Softwares used for development :  
