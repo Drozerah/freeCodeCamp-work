@@ -2,7 +2,7 @@
 
 ![JavaScript Calculator](https://github.com/Drozerah/freeCodeCamp-work/blob/master/FrontEndDevelopmentCertification/AdvancedFrontEndDevelopmentProjects/JavaScriptCalculator/img/JScalculator.png?raw=true)
 
-[Go and see my JS Calculator on CodePen](https://codepen.io/Drozerah/project/full/APokqg/)
+[Go and see my JS Calculator on CodePen](https://codepen.io/Drozerah/full/KRrqYd/)
 
 - [x] Challenge resolved
 
