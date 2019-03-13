@@ -1,60 +1,60 @@
-# Free Code Camp work
+# Drozerah Free Code Camp Work
 
 * This is a repository for posting my code (resolved challenges) from working through Free Code Camp.
 
-* Challenges required for certifications are marked with a *
-
-Free Code Camp's Front End & Back End Development program covers an estimated 500 hours of course work that includes HTML5, CSS, JavaScript and jQuery.
-
-This is broken up with 10 basic, intermediate and advanced projects. As well as 16 basic algorithms, 21 intermediate algorithms, and 5 advanced algorithms.
-
 ## MAP
 
-### Front End Development Certification
+### Responsive Web Design Certification
 
-- #### HTML5 and CSS
-	- [x] 60/60 resolved challenges
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/HTML5andCSS)	
-- #### Responsive Design with Bootstrap
-	- [x] 31/31 resolved challenges
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/ResponsiveDesignwithBootstrap)	
-- #### jQuery
-	- [x] 18/18 resolved challenges
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/jQuery)
-- #### Basic Front End Develoment Projects *
-	- [ ] 2/2 challenges to resolve : coming soon !	
+- #### Basic HTML and HTML5
+	- [x] 23/27 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_HTML_and_HTML5)
+
+- #### Basic CSS
+	- [x] 34/44 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_CSS)
+
+- #### Responsive Web Design Projects
+	- [x] 0/5 challenges not resolved yet
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Responsive_Web_Design_Projects)
+
+### Javascript Algorithms And Data Structures Certification
+
 - #### Basic JavaScript
-	- [x] 104/104 resolved challenges - not published  yet on this repository	
-- #### Object Oriented and Functional Programming
-	- [x] 13/13 resolved challenges - not published yet on this repository	
-- #### Basic Algorithm Scripting *
-    - [x] 16/16 resolved challenges
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/BasicAlgorithmScripting)
-- #### JSON APIs and AJAX
-    - [ ] 0/7 challenges to resolve : coming soon !
-- #### Intermediate Front End Development Projects *
-	- [x] 1/4 resolved challenges
-	- [ ] 3/4 challenges to resolve : coming soon !
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateFrontEndDevelopmentProjects/RandomQuoteMachine)
-- #### Intermediate Algorithm Scripting *
-	- [x] 21/21 resolved challenges
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/IntermediateAlgorithmScripting)
-- #### Advanced Front End Developpment Pojects *
-	- [x] 1/4 resolved challenges
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/FrontEndDevelopmentCertification/AdvancedFrontEndDevelopmentProjects)
+	- [x] 99/107 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/Basic_JavaScript)
 
-### Back End Development Certification
+- #### Basic Algorithm Scripting
+	- [x] 14/16 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/Basic_Algorithm_Scripting)
 
-- #### Automated Testing and Debugging
-	- [x] 2/2 resolved challenges - not published yet on this repository
-- #### Nodes.js and Express.js	
-    - [x] 1/5 resolved challenges
-    - [ ] 4/5 challenges to resolve : coming soon !
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/BackEndDevelopmentCertification/Nodes.jsandExpress.js)
-- #### Git
-    - [x] 11/11 resolved challenges	
-	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/BackEndDevelopmentCertification/GIT)
-	
-###### Coded by Drozerah on freeCodeCamp
+- #### Intermediate Algorithm Scripting
+	- [x] 19/21 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/Intermediate_Algorithm_Scripting)
 
-* [link my freeCodeCamp profile](https://www.freecodecamp.org/drozerah)
+- #### JavaScript Algorithms and Data Structures Projects
+	- [x] 3/5 chalenges resolved 
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/JavaScript_Algorithms_and_Data_Structures_Projects)
+
+### Front End Libraries Certification
+
+- #### Bootstrap
+	- [x] 31/31 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/Bootstrap)
+
+- #### jQuery
+	- [x] 18/18 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/jQuery)
+
+- #### Sass
+	- [x] 18/18 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/Sass)
+
+- #### React
+	- [x] 9/48 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/React)
+
+- #### Front_End_Libraries_Projects
+	- [x] 2/5 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/Front_End_Libraries_Projects)
+
