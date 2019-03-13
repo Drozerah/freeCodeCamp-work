@@ -1,4 +1,4 @@
-# FreeCodeCamp - Bootstrap
+# FreeCodeCamp - jQuery
 
 ## Skills : 18/18 chalenges resolved
 
