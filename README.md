@@ -1,6 +1,7 @@
 # Drozerah Free Code Camp Work
 
-* This is a repository for posting my code (resolved challenges) from working through Free Code Camp.
+* This is a repository for posting my code (chalenges resolved) from working through Free Code Camp
+* [link my FreeCodeCamp profile](https://www.freecodecamp.org/drozerah)
 
 ## MAP
 
