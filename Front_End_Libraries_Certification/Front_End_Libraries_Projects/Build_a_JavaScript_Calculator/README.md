@@ -28,10 +28,6 @@
 - [x] Package manager : NPM
 - [x] Version Control : Git
 
-###### Coded by Drozerah as a Front End certification challenge on the FreeCodeCamp
-
-* [Link my FreeCodeCamp profile](https://www.freecodecamp.org/drozerah)
-
 ###### Coded by Drozerah on FreeCodeCamp
 
 * [link my FreeCodeCamp profile](https://www.freecodecamp.org/drozerah)
