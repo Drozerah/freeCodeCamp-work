@@ -67,7 +67,7 @@ function checkCashRegister(price, cash, cid) {
         return element
     }).reverse()
 
-    // // console.log('CID before:', data) // DEBUG
+    // console.log('CID before:', data) // DEBUG
 
     /* 
     * WORKING WITH DATA
@@ -80,7 +80,7 @@ function checkCashRegister(price, cash, cid) {
 
     // console.log(`Cash in drawer amount : ${cidAmount}`)
 
-    // intermediate result per currency // DEBUG
+    // intermediate result per currency
     let res = [null, 0]
 
     /**
