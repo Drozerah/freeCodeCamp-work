@@ -78,7 +78,7 @@ function checkCashRegister(price, cash, cid) {
         .reduce((acc, cur) => acc + cur)
         .toFixed(2)
 
-    // console.log(`Cash in drawer amount : ${cidAmount}`)
+    // console.log(`Cash in drawer amount : ${cidAmount}`) // DEBUG
 
     // intermediate result per currency
     let res = [null, 0]
