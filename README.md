@@ -34,7 +34,7 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/Intermediate_Algorithm_Scripting)
 
 - #### JavaScript Algorithms and Data Structures Projects
-	- [x] 4/5 chalenges resolved 
+	- [x] 5/5 chalenges resolved 
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/JavaScript_Algorithms_and_Data_Structures_Projects)
 
 ### Front End Libraries Certification
