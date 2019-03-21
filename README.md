@@ -15,6 +15,10 @@
 	- [x] 34/44 chalenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_CSS)
 
+- #### CSS Grid
+	- [x] 22/22 chalenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/CSS_Grid)
+
 - #### Responsive Web Design Projects
 	- [x] 0/5 challenges not resolved yet
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Responsive_Web_Design_Projects)
