@@ -30,7 +30,7 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/Basic_JavaScript)
 
 - #### Basic Algorithm Scripting
-	- [x] 15/16 chalenges resolved
+	- [x] 16/16 chalenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/Basic_Algorithm_Scripting)
 
 - #### Intermediate Algorithm Scripting

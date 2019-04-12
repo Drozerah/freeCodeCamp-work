@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic Algorithm Scripting
 
-## Skills : 15/16 chalenges resolved
+## Skills : 16/16 chalenges resolved
 
 - [x]  1 - Convert Celsius to Fahrenheit
 - [x]  2 - Reverse a String
@@ -13,7 +13,7 @@
 - [x]  9 - Finders Keepers
 - [x] 10 - Boo who
 - [x] 11 - Title Case a Sentence
-- [ ] 12 - Slice and Splice
+- [x] 12 - Slice and Splice
 - [x] 13 - Falsy Bouncer
 - [x] 14 - Where do I Belong
 - [x] 15 - Mutations
