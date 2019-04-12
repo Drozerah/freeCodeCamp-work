@@ -1,8 +1,8 @@
 # FreeCodeCamp - Basic Algorithm Scripting
 
-## Skills : 14/16 chalenges resolved
+## Skills : 15/16 chalenges resolved
 
-- [ ]  1 - Convert Celsius to Fahrenheit
+- [x]  1 - Convert Celsius to Fahrenheit
 - [x]  2 - Reverse a String
 - [x]  3 - Factorialize a Number
 - [x]  4 - Find the Longest Word in a String
