@@ -1,6 +1,6 @@
 # FreeCodeCamp - Front End Libraries Projects
 
-## Skills : 2/5 chalenges resolved
+## Skills : 2/5 challenges resolved
 
 - [x] Build a Random Quote Machine
     - [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/Front_End_Libraries_Projects/Build_a_Random_Quote_Machine)

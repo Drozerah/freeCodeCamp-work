@@ -1,6 +1,6 @@
 # FreeCodeCamp - React
 
-## Skills : 9/48 chalenges resolved
+## Skills : 9/48 challenges resolved
 
 - [x] Create a Simple JSX Element
 - [x] Create a Complex JSX Element

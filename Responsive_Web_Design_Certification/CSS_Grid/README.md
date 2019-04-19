@@ -1,6 +1,6 @@
 # FreeCodeCamp - CSS Grid
 
-## Skills : 22/22 resolved chalenges
+## Skills : 22/22 challenges resolved 
 
 - [x] Create Your First CSS Grid
 - [x] Add Columns with grid-template-columns

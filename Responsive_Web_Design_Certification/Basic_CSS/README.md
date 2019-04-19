@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic CSS
 
-## Skills : 34/44 resolved chalenges
+## Skills : 34/44 challenges resolved 
 
 - [x] Change the Color of Text
 - [x] Use CSS Selectors to Style Elements

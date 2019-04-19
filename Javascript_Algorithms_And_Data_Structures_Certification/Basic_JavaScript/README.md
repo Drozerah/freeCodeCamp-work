@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic JavaScript
 
-## Skills : 99/107 resolved chalenges
+## Skills : 99/107 challenges resolved
 
 - [x] Comment Your JavaScript Code
 - [x] Declare JavaScript Variables

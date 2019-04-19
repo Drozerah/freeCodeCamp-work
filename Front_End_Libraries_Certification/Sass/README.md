@@ -1,6 +1,6 @@
 # FreeCodeCamp - Sass
 
-## Skills : 9/9 chalenges resolved
+## Skills : 9/9 challenges resolved
 
 - [x] Store Data with Sass Variables
 - [x] Nest CSS with Sass

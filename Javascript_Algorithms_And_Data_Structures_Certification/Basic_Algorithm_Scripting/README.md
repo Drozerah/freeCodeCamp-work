@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic Algorithm Scripting
 
-## Skills : 16/16 chalenges resolved
+## Skills : 16/16 challenges resolved
 
 - [x]  1 - Convert Celsius to Fahrenheit
 - [x]  2 - Reverse a String

@@ -1,6 +1,6 @@
 # FreeCodeCamp - jQuery
 
-## Skills : 18/18 chalenges resolved
+## Skills : 18/18 challenges resolved
 
 - [x] Learn How Script Tags and Document Ready Work
 - [x] Target HTML Elements with Selectors Using jQuery

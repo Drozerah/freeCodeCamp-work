@@ -1,6 +1,6 @@
 # FreeCodeCamp - JavaScript Algorithms and Data Structures Projects
 
-## Skills : 5/5 chalenges resolved 
+## Skills : 5/5 challenges resolved 
 
 - [x] 1 - Palindrome Checker
 - [x] 2 - Roman Numeral Converter

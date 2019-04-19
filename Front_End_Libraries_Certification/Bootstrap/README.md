@@ -1,6 +1,6 @@
 # FreeCodeCamp - Bootstrap
 
-## Skills : 31/31 chalenges resolved
+## Skills : 31/31 challenges resolved
 
 - [x] Responsive Design with Bootstrap Fluid Containers
 - [x] Make Images Mobile Responsive

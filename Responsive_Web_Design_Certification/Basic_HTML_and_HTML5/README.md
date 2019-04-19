@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic HTML and HTML5
 
-## Skills : 23/27 chalenges resolved
+## Skills : 23/27 challenges resolved
 
 - [x] Say Hello to HTML Elements
 - [x] Headline with the h2 Element
