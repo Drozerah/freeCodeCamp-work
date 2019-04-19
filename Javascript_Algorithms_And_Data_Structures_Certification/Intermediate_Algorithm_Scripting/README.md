@@ -1,6 +1,6 @@
 # FreeCodeCamp - Intermediate Algorithm Scripting
 
-## Skills : 19/21 chalenges resolved
+## Skills : 20/21 challenges resolved
 
 - [x]  1 - Sum All Numbers in a Range
 - [x]  2 - Diff Two Arrays
@@ -21,7 +21,7 @@
 - [x] 17 - Binary Agents
 - [x] 18 - Everything Be True
 - [x] 19 - Arguments Optional
-- [ ] 20 - Make a Person
+- [x] 20 - Make a Person
 - [ ] 21 - Map the Debris
 
 
