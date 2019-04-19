@@ -6,9 +6,10 @@
 // These methods must be the only available means of interacting with the object.
 class Person {
     constructor(firstAndLast) {
+        // Array of truth
         // Split the argument from constructor into an array
         //  using any non letter or number character as RegEx delimiter
-        const data = firstAndLast.split(/\W+/)
+        const data = firstAndLast.split(/\W+/) //> ['firsName','LastName']
         this.getFullName = () => data.join(' ')
         this.getFirstName = () => data[0]
         this.getLastName = () => data[1]
