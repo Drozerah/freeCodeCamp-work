@@ -1,8 +1,8 @@
 # FreeCodeCamp - Responsive Web Design Projects
 
-## Skills : 0/5 challenges not resolved yet
+## Skills : 1/5 challenge resolved
 
-- [ ] 1 - Build a Tribute Page
+- [x] 1 - [Build a Tribute Page](https://github.com/Drozerah/the-moon-tribute-page)
 - [ ] 2 - Build a Survey Form
 - [ ] 3 - Build a Product Landing Page
 - [ ] 4 - Build a Technical Documentation Page
