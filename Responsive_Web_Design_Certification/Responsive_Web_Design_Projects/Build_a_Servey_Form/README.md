@@ -2,7 +2,7 @@
 
 - [x] chalenge resolved
 
-[![servey form](img/form-demo.png)](https://form-demo.netlify.com/)
+![servey form](img/form-demo.png)
 
 - [go and see the related repository](https://github.com/Drozerah/form-demo)
 - see this "Form Demo" page : [Netlify deployment](https://the-moon.netlify.com/)
