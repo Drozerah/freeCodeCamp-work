@@ -1,6 +1,6 @@
 # FreeCodeCamp - Build a Servey Form
 
-- [x] chalenge resolved
+- [x] challenge resolved
 
 ![servey form](img/form-demo.png)
 
