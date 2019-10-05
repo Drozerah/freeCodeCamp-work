@@ -1,6 +1,6 @@
 # FreeCodeCamp - Build a Tribute Page
 
-- [x] chalenge resolved
+- [x] challenge resolved
 
 [![Random Quote Machine](img/the-moon.netlify.com.png)](https://the-moon.netlify.com/)
 

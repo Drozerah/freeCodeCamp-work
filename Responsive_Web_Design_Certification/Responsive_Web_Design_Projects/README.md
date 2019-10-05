@@ -7,7 +7,8 @@
 - [x] 2 - Build a Survey Form
     - [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Responsive_Web_Design_Projects/Build_a_Servey_Form)
 - [ ] 3 - Build a Product Landing Page
-- [ ] 4 - Build a Technical Documentation Page
+- [x] 4 - Build a Technical Documentation Page
+    - [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Responsive_Web_Design_Projects/Build_a_Technical_Documentation_Page)
 - [ ] 5 - Build a Personal Portfolio Webpage
 
 ###### Coded by Drozerah on FreeCodeCamp
