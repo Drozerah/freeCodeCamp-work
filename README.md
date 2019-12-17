@@ -63,3 +63,8 @@
 	- [x] 2/5 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/Front_End_Libraries_Projects)
 
+### APIs and Microservices Certification
+
+- #### Managing Packages with NPM
+	- [x] 10/10 challenges resolved
+		- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/APIs_and_Microservices_Certification/Managing_Packages_with_NPM)
