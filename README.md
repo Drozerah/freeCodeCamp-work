@@ -73,4 +73,8 @@
 	- [x] 12/12 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/APIs_and_Microservices_Certification/Basic_Node_and_Express)
 
+- #### MongoDB and Mongoose
+	- [x] 12/12 challenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/APIs_and_Microservices_Certification/MongoDB_and_Mongoose)
+
 
