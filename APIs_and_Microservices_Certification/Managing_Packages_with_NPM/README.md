@@ -1,5 +1,9 @@
 # FreeCodeCamp - Managing Packages with NPM
 
+This project is hosted on Glitch:
+
+https://snowy-trip.glitch.me/
+
 ## Skills : 10/10 challenges resolved
 
 - [x] How to Use package.json, the Core of Any Node.js Project or npm Package
