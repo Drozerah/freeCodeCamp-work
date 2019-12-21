@@ -1,6 +1,6 @@
 # FreeCodeCamp - MongoDB and Mongoose
 
-- [go and see the related repository](https://github.com/Drozerah/)
+- [go and see the related repository](https://github.com/Drozerah/fcc-mongodb-and-mongoose)
 
 ## Skills : 12/12 challenges resolved
 
