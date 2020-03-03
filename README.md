@@ -12,7 +12,7 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_HTML_and_HTML5)
 
 - #### Basic CSS
-	- [x] 34/44 challenges resolved
+	- [x] 44/44 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_CSS)
 
 - #### CSS Flexbox

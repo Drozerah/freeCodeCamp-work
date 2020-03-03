@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic CSS
 
-## Skills : 34/44 challenges resolved 
+## Skills : 44/44 challenges resolved 
 
 - [x] Change the Color of Text
 - [x] Use CSS Selectors to Style Elements
@@ -24,8 +24,8 @@
 - [x] Add Different Margins to Each Side of an Element
 - [x] Use Clockwise Notation to Specify the Padding of an Element
 - [x] Use Clockwise Notation to Specify the Margin of an Element
-- [ ] Use Attribute Selectors to Style Elements
-- [ ] Understand Absolute versus Relative Units
+- [X] Use Attribute Selectors to Style Elements
+- [x] Understand Absolute versus Relative Units
 - [x] Style the HTML Body Element
 - [x] Inherit Styles from the Body Element
 - [x] Prioritize One Style Over Another
@@ -38,14 +38,14 @@
 - [x] Use Abbreviated Hex Code
 - [x] Use RGB values to Color Elements
 - [x] Use RGB to Mix Colors
-- [ ] Use CSS Variables to change several elements at once
-- [ ] Create a custom CSS Variable
-- [ ] Use a custom CSS Variable
-- [ ] Attach a Fallback value to a CSS Variable
-- [ ] Improve Compatibility with Browser Fallbacks
-- [ ] Cascading CSS variables
-- [ ] Change a variable for a specific area
-- [ ] Use a media query to change a variable
+- [x] Use CSS Variables to change several elements at once
+- [x] Create a custom CSS Variable
+- [x] Use a custom CSS Variable
+- [x] Attach a Fallback value to a CSS Variable
+- [x] Improve Compatibility with Browser Fallbacks
+- [x] Inherit CSS variables
+- [x] Change a variable for a specific area
+- [x] Use a media query to change a variable
 
 ###### Coded by Drozerah on FreeCodeCamp
 
