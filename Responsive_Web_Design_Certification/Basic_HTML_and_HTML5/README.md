@@ -1,6 +1,6 @@
 # FreeCodeCamp - Basic HTML and HTML5
 
-## Skills : 23/27 challenges resolved
+## Skills : 27/27 challenges resolved
 
 - [x] Say Hello to HTML Elements
 - [x] Headline with the h2 Element
@@ -9,10 +9,10 @@
 - [x] Uncomment HTML
 - [x] Comment out HTML
 - [x] Delete HTML Elements
-- [ ] Introduction to HTML5 Elements
+- [x] Introduction to HTML5 Elements
 - [x] Add Images to Your Website
 - [x] Link to External Pages with Anchor Elements
-- [ ] Link to Internal Sections of a Page with Anchor Elements
+- [x] Link to Internal Sections of a Page with Anchor Elements
 - [x] Nest an Anchor Element within a Paragraph
 - [x] Make Dead Links Using the Hash Symbol
 - [x] Turn an Image into a Link
@@ -25,10 +25,11 @@
 - [x] Use HTML5 to Require a Field
 - [x] Create a Set of Radio Buttons
 - [x] Create a Set of Checkboxes
+- [x] Use the value attribute with Radio Buttons and Checkboxes
 - [x] Check Radio Buttons and Checkboxes by Default
 - [x] Nest Many Elements within a Single div Element
-- [ ] Declare the Doctype of an HTML Document
-- [ ] Define the Head and Body of an HTML Document
+- [x] Declare the Doctype of an HTML Document
+- [x] Define the Head and Body of an HTML Document
 
 ###### Coded by Drozerah on FreeCodeCamp
 
