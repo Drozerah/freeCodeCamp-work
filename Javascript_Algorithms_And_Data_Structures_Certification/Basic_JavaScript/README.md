@@ -53,14 +53,14 @@
 - [x] Local Scope and Functions
 - [x] Global vs. Local Scope in Functions
 - [x] Return a Value from a Function with Return
-- [ ] Understanding Undefined Value returned from a Function
+- [x] Understanding Undefined Value returned from a Function
 - [x] Assignment with a Returned Value
 - [x] Stand in Line
 - [x] Understanding Boolean Values
 - [x] Use Conditional Logic with If Statements
 - [x] Comparison with the Equality Operator
 - [x] Comparison with the Strict Equality Operator
-- [ ] Practice comparing different values
+- [x] Practice comparing different values
 - [x] Comparison with the Inequality Operator
 - [x] Comparison with the Strict Inequality Operator
 - [x] Comparison with the Greater Than Operator
