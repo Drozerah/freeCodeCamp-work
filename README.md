@@ -8,7 +8,7 @@
 ### Responsive Web Design Certification
 
 - #### Basic HTML and HTML5
-	- [x] 23/27 challenges resolved
+	- [x] 27/27 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_HTML_and_HTML5)
 
 - #### Basic CSS
