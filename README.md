@@ -15,6 +15,10 @@
 	- [x] 34/44 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Basic_CSS)
 
+- #### CSS Flexbox
+	- [x] 17/17 challenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Flexbox)
+
 - #### CSS Grid
 	- [x] 22/22 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/CSS_Grid)
