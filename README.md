@@ -24,7 +24,7 @@
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/CSS_Grid)
 
 - #### Responsive Web Design Projects
-	- [x] 3/5 challenges resolved
+	- [x] 5/5 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Responsive_Web_Design_Projects)
 
 ### Javascript Algorithms And Data Structures Certification
