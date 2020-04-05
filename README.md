@@ -26,6 +26,7 @@
 - #### Responsive Web Design Projects
 	- [x] 5/5 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Responsive_Web_Design_Certification/Responsive_Web_Design_Projects)
+	- [go and see this successfully completed certification](https://www.freecodecamp.org/certification/drozerah/responsive-web-design)
 
 ### Javascript Algorithms And Data Structures Certification
 
@@ -44,6 +45,7 @@
 - #### JavaScript Algorithms and Data Structures Projects
 	- [x] 5/5 challenges resolved 
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Javascript_Algorithms_And_Data_Structures_Certification/JavaScript_Algorithms_and_Data_Structures_Projects)
+	- [go and see this successfully completed certification](https://www.freecodecamp.org/certification/drozerah/javascript-algorithms-and-data-structures)
 
 ### Front End Libraries Certification
 
@@ -80,6 +82,10 @@
 - #### MongoDB and Mongoose
 	- [x] 12/12 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/APIs_and_Microservices_Certification/MongoDB_and_Mongoose)
+
+- #### APIs and Microservices Projects
+	- [x] 5/5 challenges resolved
+	- [go and see this successfully completed certification](https://www.freecodecamp.org/certification/drozerah/apis-and-microservices)
 
 ### Information Security and Quality Assurance Certification
 
