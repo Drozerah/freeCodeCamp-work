@@ -63,7 +63,7 @@
 	- [x] 9/48 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/React)
 
-- #### Front_End_Libraries_Projects
+- #### Front End Libraries Projects
 	- [x] 2/5 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Front_End_Libraries_Certification/Front_End_Libraries_Projects)
 
