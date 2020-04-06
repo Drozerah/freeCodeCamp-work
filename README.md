@@ -92,3 +92,7 @@
 - #### Information Security with HelmetJS
 	- [x] 14/14 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Information_Security_and_Quality_Assurance_certification/Information_Security_with_HelmetJS)
+
+- #### Quality Assurance and Testing with Chai
+	- [x] 24/24 challenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Information_Security_and_Quality_Assurance_certification/Quality_Assurance_and_Testing_with_Chai)
