@@ -103,4 +103,5 @@
 
 - #### Information Security and Quality Assurance Projects
 	- [ ] 1/5 challenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Information_Security_and_Quality_Assurance_certification/Information_Security_and_Quality_Assurance_Projects)
 
