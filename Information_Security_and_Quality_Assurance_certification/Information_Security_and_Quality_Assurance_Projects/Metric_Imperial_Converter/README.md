@@ -2,10 +2,10 @@
 
 - [x] challenge resolved
 
-- [go and see the related repository](https://fcc-mtrc-imp-cnvt-proj.herokuapp.com/)
+- [go and see the related repository](https://github.com/Drozerah/fcc-mtrc-imp-cnvt-proj)
 
 - see this API Live : 
-  - [Heroku deployment](https://product-landing-page-app.netlify.com/)
+  - [Heroku deployment](https://fcc-mtrc-imp-cnvt-proj.herokuapp.com/)
 
 ###### Coded by Drozerah on FreeCodeCamp
 
