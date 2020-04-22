@@ -96,3 +96,11 @@
 - #### Quality Assurance and Testing with Chai
 	- [x] 24/24 challenges resolved
 	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Information_Security_and_Quality_Assurance_certification/Quality_Assurance_and_Testing_with_Chai)
+	
+- #### Advanced Node and Express
+	- [ ] 16/22 challenges resolved
+	- [go and see the related folder in this repository](https://github.com/Drozerah/freeCodeCamp-work/tree/master/Information_Security_and_Quality_Assurance_certification/Advanced_Node_and_Express)
+
+- #### Information Security and Quality Assurance Projects
+	- [ ] 1/5 challenges resolved
+
